@@ -3,7 +3,7 @@
 This add-on lets you:
 
 ✅ Group timeline markers  
-✅ Rename groups (updates markers automatically)  
+✅ Rename groups  
 ✅ Assign or remove selected markers to/from a group  
 ✅ Toggle group visibility with an eye icon  
 ✅ Works in Graph Editor, Dope Sheet, and Video Sequencer
