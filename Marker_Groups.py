@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Marker Groups",
-    "author": "RowBoat23",
+    "author": "Rowboat23",
     "version": (1, 3, 0),
     "blender": (3, 5, 0),
     "location": "Graph Editor / Dope Sheet / Sequencer > Sidebar",
