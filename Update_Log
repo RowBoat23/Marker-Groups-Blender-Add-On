@@ -1,0 +1,9 @@
+## Version 1.5    1/8/2026
+
+    Made compatible for Blender 5.0
+    Added way to remove groups
+
+    # Bugs
+
+      1. markers with same name and position glitching with visibility and move updates.
+      2. all markers are stored at -100000 when visibility is turned off; if marked are move then visibility doesn't return.
